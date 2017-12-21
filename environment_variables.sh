@@ -2,4 +2,4 @@
 
 #!/bin/bash
 
-set | less
+env | sort
